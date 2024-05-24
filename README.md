@@ -3,7 +3,7 @@ A 2008 Roblox simulation engine on Roblox's modern engine, aiming to replicate t
 
 ![In-game screenshot of Open08](https://i.imgur.com/UdQcoXg.png)
 #### Importing into Roblox Studio
-Open08 makes use of [Rojo](https://rojo.space) for developing the project, importing games can be found on there documentation. Once the game has been imported you should change `PhysicsSteppingMethod` (Found inside of `Workspace`) to `Fixed`.
+Open08 makes use of [Rojo](https://rojo.space) for developing the project, importing games can be found on there documentation. Once the game has been imported you should change `PhysicsSteppingMethod` (Found inside of `Workspace`) to `Fixed`, and you may also need to change `ChatVersion` (Found inside of `TextChatService`) to `LegacyChatService`.
 #### Playing on Roblox
 The game can be played on Roblox [here](https://www.roblox.com/games/17588164210/Open08).
 #### Credits
