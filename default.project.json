@@ -3,6 +3,10 @@
   "tree": {
     "$className": "DataModel",
 
+    "MaterialService": {
+      "$path": "src/MaterialService"
+    },
+    
     "ReplicatedStorage": {
       "$path": "src/ReplicatedStorage"
     },
