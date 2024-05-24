@@ -53,9 +53,29 @@ local Solo = Instance.new("BoolValue")
 Solo.Name = "Solo"
 Solo.Parent = ReplicatedStorage
 
+local Protocols = Instance.new("Folder")
+Protocols.Name = "Protocols"
+Protocols.Parent = ReplicatedStorage
+
+local HintFolder = Instance.new("Folder")
+HintFolder.Name = "HintFolder"
+HintFolder.Parent = ReplicatedStorage
+
+local Animate = Instance.new("Folder")
+Animate.Name = "Animate"
+Animate.Parent = StarterPlayer.StarterCharacterScripts
+
+local Reserve = Instance.new("Folder")
+Reserve.Name = "Reserve"
+Reserve.Parent = ServerStorage
+
+local HopperBins = Instance.new("Folder")
+HopperBins.Name = "HopperBins"
+HopperBins.Parent = ServerStorage
+
 local Chat = Instance.new("RemoteEvent")
 Chat.Name = "Chat"
-Chat.Parent = ReplicatedStorage.Protocols
+Chat.Parent = Protocols
 
 local StarterCharacter = Instance.new("Model")
 StarterCharacter.Name = "StarterCharacter"
