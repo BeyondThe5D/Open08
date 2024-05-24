@@ -1,0 +1,26 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="MaterialVariant" referent="RBXCD4074234BBE4DC5BA33C21B6CF658AD">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<token name="BaseMaterial">272</token>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<Content name="ColorMap"><null></null></Content>
+			<PhysicalProperties name="CustomPhysicalProperties">
+				<CustomPhysics>false</CustomPhysics>
+			</PhysicalProperties>
+			<bool name="DefinesCapabilities">false</bool>
+			<token name="MaterialPattern">0</token>
+			<Content name="MetalnessMap"><null></null></Content>
+			<string name="Name">Shiny</string>
+			<Content name="NormalMap"><null></null></Content>
+			<Content name="RoughnessMap"><url>rbxassetid://11353192201</url></Content>
+			<int64 name="SourceAssetId">-1</int64>
+			<float name="StudsPerTile">10</float>
+			<BinaryString name="Tags"></BinaryString>
+			<Content name="TexturePack"><url>rbxassetid://11402934103</url></Content>
+		</Properties>
+	</Item>
+</roblox>
