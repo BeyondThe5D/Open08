@@ -861,6 +861,7 @@ local function CreatePlayer()
 	
 	local Leaderstats = Instance.new("Frame")
 	Leaderstats.Name = "Leaderstats"
+	Leaderstats.AnchorPoint = Vector2.new(1, 0)
 	Leaderstats.BackgroundTransparency = 1
 	Leaderstats.Position = UDim2.new(1, 0, 0, 0)
 	Leaderstats.Size = UDim2.new(0.5, 0, 1, 0)
